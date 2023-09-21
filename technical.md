@@ -80,9 +80,27 @@ Material-UI was selected for ACVAuctions to facilitate a consistent, efficient, 
 > _Rationale_: Firebase has been chosen for ACVAuctions due to its comprehensive backend solutions, ensuring seamless scalability. This platform allows our team to prioritize user needs while simplifying backend complexities.
 
 
-Database (Key Value stores)
-  1. S3
-  2. Firebase
+## Database (Key Value stores)
+
+### 1 S3
+
+**Why S3 for ACVAuctions?**
+- **Image Storage for API**: Stores images that are linked when calling the damage detection API in our app.
+- **Durability & Availability**: Offers unparalleled durability and availability, ensuring the stored images are reliably accessible.
+- **Security**: Advanced security measures, such as ACLs and bucket policies, protect the data.
+
+> _Rationale_: S3 is pivotal to ACVAuctions, primarily because it effectively stores images required by our damage detection API. The security and reliability of S3 ensure these images are always accessible.
+
+### 2 Firebase
+
+**Why Firebase for ACVAuctions?**
+- **Legacy Infrastructure**: ACVAuctions' existing infrastructure is rooted in Firebase.
+- **Real-time Database**: Allows for instantaneous data synchronization.
+- **Scalability**: Adapts to user traffic demands seamlessly.
+- **Serverless Functions**: Simplifies server-side logic with Cloud Functions.
+
+> _Rationale_: Firebase's features mesh well with ACVAuctions' present infrastructure. Its capabilities, from real-time data synchronization to serverless functions, ensure that the application is both efficient and user-centric.
+
 
 Infrastructure
   1. Github
