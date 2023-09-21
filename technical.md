@@ -1,7 +1,7 @@
 ## **Technical Specifications**
 
 
-User Experience
+## User Experience
   1. ## Wireframes
 
 **Tool Used:** Figma
