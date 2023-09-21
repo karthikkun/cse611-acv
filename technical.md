@@ -31,7 +31,7 @@ To Do
 
 React Native was chosen for ACVAuctions due to its capability for efficient, cross-platform development and its strong community support. It aligns with our goals to provide a consistent and high-performance app experience.
 
-2.## Redux
+2. ## Redux
 
 **Why Redux for ACVAuctions?**
 
