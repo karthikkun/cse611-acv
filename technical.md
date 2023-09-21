@@ -101,11 +101,25 @@ Material-UI was selected for ACVAuctions to facilitate a consistent, efficient, 
 
 > _Rationale_: Firebase's features mesh well with ACVAuctions' present infrastructure. Its capabilities, from real-time data synchronization to serverless functions, ensure that the application is both efficient and user-centric.
 
+## Infrastructure
 
-Infrastructure
-  1. Github
-  2. AWS
+### GitHub
 
+**Why GitHub for ACVAuctions?**
+- **Team Collaboration**: Facilitates collaboration among team members, streamlining development workflows.
+- **Version Control**:  [To be filled in later]
+- **Branching Strategy**: [To be filled in later]
+
+> _Rationale_: GitHub is an essential tool for ACVAuctions. Its collaborative features allow our team to work in sync, and its version control mechanisms ensure the consistency and integrity of our codebase.
+
+### AWS
+
+**Why AWS for ACVAuctions?**
+- **S3 Storage**: AWS's S3 service is vital for storing images linked to the damage detection API in our app.
+- **Scalability**: AWS services, especially S3, scale effortlessly based on our data storage needs.
+- **Reliability**: AWS offers a stable and reliable infrastructure platform.
+
+> _Rationale_: AWS, particularly its S3 service, provides ACVAuctions with the necessary infrastructure to handle our image storage needs for the damage detection API. Its scalability and reliability make it an optimal choice for our evolving requirements.
 
 
 
