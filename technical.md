@@ -17,7 +17,8 @@ The Figma link provided above showcases the wireframes created for the ACV Aucti
 
 
 
-  3. User Flow or User Journey scheme
+  2.## User Flow or User Journey scheme
+     To do
 
 User Interface Development
   1. React Native
