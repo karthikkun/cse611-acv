@@ -68,8 +68,17 @@ TypeScript was chosen for ACVAuctions due to its powerful static typing and deve
 Material-UI was selected for ACVAuctions to facilitate a consistent, efficient, and customizable UI development. It aligns with our aim to offer a polished and
 
 
-Backend Development
-  1. Firebase
+### Backend Development: Firebase
+
+**Why Firebase for ACVAuctions?**
+- **Real-time Database**: Ensures real-time synchronization of data across user devices.
+- **Scalability**: Provides auto-scaling to cater to growing user numbers without any manual adjustments.
+- **Authentication**: Supports various authentication methods with built-in services.
+- **Serverless Functions**: Uses Cloud Functions to facilitate server-side logic without needing server management.
+- **Analytics & Monitoring**: Implements tools such as Firebase Analytics for in-depth insights and performance diagnostics.
+
+> _Rationale_: Firebase has been chosen for ACVAuctions due to its comprehensive backend solutions, ensuring seamless scalability. This platform allows our team to prioritize user needs while simplifying backend complexities.
+
 
 Database (Key Value stores)
   1. S3
