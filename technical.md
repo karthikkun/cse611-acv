@@ -3,7 +3,17 @@
 
 User Experience
   1. Wireframes
-  2. User Flow or User Journey scheme
+     Tool Used: Figma
+
+Figma has been chosen as the tool for wireframing for this project. It provides a seamless, collaborative interface which facilitates real-time collaboration among designers and stakeholders. Being browser-based, Figma ensures easy accessibility across different platforms without necessitating any software installation.
+
+Link to Wireframes:
+ACV Auctions Design on Figma
+
+Description:
+The Figma link provided above showcases the wireframes created for the ACV Auctions Design. These wireframes present a visual representation of the anticipated user interface, detailing the layout, user interactions, and overall user experience. Acting as a blueprint, they offer developers and stakeholders a clear understanding of the expected user flow and design elements.
+
+  3. User Flow or User Journey scheme
 
 User Interface Development
   1. React Native
