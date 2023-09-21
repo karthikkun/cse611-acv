@@ -43,7 +43,18 @@ React Native was chosen for ACVAuctions due to its capability for efficient, cro
 
 Redux was chosen for ACVAuctions due to its robustness in state management and developer-friendly tools. It ensures a scalable and maintainable approach to handle the app's state.
 
-  3. Typescript
+  3. ## Development Language - TypeScript
+
+**Why TypeScript for ACVAuctions?**
+
+- **Static Typing:** Offers type checking during compile time, reducing runtime errors.
+- **Enhanced Readability:** Types and interfaces improve code readability and maintainability.
+- **Robust Tooling:** Intelligent code suggestions, refactoring, and improved navigation with IDEs.
+- **Scalability:** Well-suited for large codebases ensuring better maintainability.
+- **ESNext Features:** Allows the use of the latest JavaScript features while ensuring backward compatibility.
+
+TypeScript was chosen for ACVAuctions due to its powerful static typing and developer tooling. It ensures a safer, more maintainable, and scalable codebase for the application.
+
   4. Material UI
 
 Backend Development
