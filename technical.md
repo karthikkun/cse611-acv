@@ -31,7 +31,18 @@ To Do
 
 React Native was chosen for ACVAuctions due to its capability for efficient, cross-platform development and its strong community support. It aligns with our goals to provide a consistent and high-performance app experience.
 
-  2. Redux
+2.## Redux
+
+**Why Redux for ACVAuctions?**
+
+- **Predictability:** Redux enforces a unidirectional data flow, making state changes predictable.
+- **Maintainability:** It encourages code modularity, making the codebase more maintainable.
+- **Server Rendering:** Redux is conducive to server-side rendering for faster initial page loads.
+- **Developer Tools:** The Redux DevTools provide powerful features for debugging and state tracking.
+- **Community:** Extensive community support provides libraries, middlewares, and solutions to common issues.
+
+Redux was chosen for ACVAuctions due to its robustness in state management and developer-friendly tools. It ensures a scalable and maintainable approach to handle the app's state.
+
   3. Typescript
   4. Material UI
 
