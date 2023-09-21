@@ -55,7 +55,18 @@ Redux was chosen for ACVAuctions due to its robustness in state management and d
 
 TypeScript was chosen for ACVAuctions due to its powerful static typing and developer tooling. It ensures a safer, more maintainable, and scalable codebase for the application.
 
-  4. Material UI
+  4. ## UI Framework - Material-UI
+
+**Why Material-UI for ACVAuctions?**
+
+- **Consistency:** Based on Google's Material Design, ensuring a consistent and modern UI.
+- **Component Library:** Rich set of pre-designed components accelerates development.
+- **Customizable:** Theming and styling solutions adapt to brand-specific designs.
+- **Responsiveness:** Built-in responsive design techniques ensure great user experience across devices.
+- **Community:** Strong community support, leading to regular updates and a plethora of resources.
+
+Material-UI was selected for ACVAuctions to facilitate a consistent, efficient, and customizable UI development. It aligns with our aim to offer a polished and
+
 
 Backend Development
   1. Firebase
