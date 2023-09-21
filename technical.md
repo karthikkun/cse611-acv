@@ -18,8 +18,19 @@ The Figma link provided above showcases the wireframes created for the ACV Aucti
 
 To Do
 
-User Interface Development
-  1. React Native
+### User Interface Development - 
+1. ## React Native
+
+**Why React Native for ACVAuctions?**
+
+- **Cross-Platform:** Develop for Android and iOS simultaneously, ensuring consistency.
+- **Performance:** Near-native speed, with options to use native modules for optimization.
+- **Community:** Vast support from developers worldwide, ensuring updates and quick fixes.
+- **Efficiency:** Hot-reload feature speeds up the development process.
+- **Flexibility:** Modular design for quick upgrades and easy integration with other apps.
+
+React Native was chosen for ACVAuctions due to its capability for efficient, cross-platform development and its strong community support. It aligns with our goals to provide a consistent and high-performance app experience.
+
   2. Redux
   3. Typescript
   4. Material UI
